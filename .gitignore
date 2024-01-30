@@ -1,0 +1,13 @@
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+.mypy_cache/
+outputs/
+checkpoints/
+codrawmodels/
+lightning_logs/
+comet-logs/
+*.ckpt
+
+docs.md
+temp.ipynb
